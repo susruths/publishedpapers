@@ -11,7 +11,11 @@ Lists papers and topics published.
 <tr><td>4</td><td>Measurement method for end-to-end Time synchronization of wired and wireless TSN </td><td>TSN, TGPIO </td><td>Presented at TSNA </td></tr> 
 <tr><td>5</td><td>Zero-Delay Roaming for Mobile Robots enabled by Wireless TSN </td><td>802.1CB, Robotics,Wi-Fi</td><td>Nothing </td></tr> 
 <tr><td>6</td><td>Joint Resource Scheduling for AMR Navigation over Wireless Edge Networks (IEEE Open Journal of Vehicular Technology,2023) </td><td>Robotics,Wi-Fi, Edge</td><td>Nothing </td></tr> 
-<tr><td>1</td><td>End-to-End Time Synchronization Performance Measurement in Heterogenous TSN Networks </td><td>TSN, Robotics,Wi-Fi,QoS</td><td>Presented at TSN/A 2021</td></tr> 
+<tr><td>7</td><td>End-to-End Time Synchronization Performance Measurement in Heterogenous TSN Networks </td><td>TSN, Robotics,Wi-Fi</td><td>Presented at TSN/A 2021</td></tr> 
+<tr><td>8</td><td>Attack Resilience for Time Sensitive Networking and Applications (TSNA Conference 2021) </td><td>TSN,Security</td><td></td></tr> 
+<tr><td>9</td><td>Bridging Wired and Wireless Time Sensitive Networking: Opportunities and Challenges (Embedded World Conference 2021)</td><td>TSN,Security</td><td></td></tr> 
+<tr><td>10</td><td>Computing and Communication Co-design and Wireless TSN in a Human-Robot Collaboration Testbed (IEEE Transactionson Industrial Informatics – 2022)</td><td>TSN,Security</td><td></td></tr> 
+<tr><td>10</td><td>Wireless TSN with Multi-Radio Wi-Fi (IEEE CSCN – 2021)</td><td>TSN,Security</td><td></td></tr> 
 <!-- <tr><td colspan="2"><a href="#survey-papers">1. Survey</a></td></tr> 
 <tr><td colspan="2"><a href="#models">2. Models</a></td></tr>
 <tr>
