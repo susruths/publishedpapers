@@ -5,7 +5,13 @@ Lists papers and topics published.
 
 <table>
 <tr><td>No.</td><td>Title</td><td>Domain</td><td>Abstract</td></tr>
-<tr><td>1</td><td>Enabling QoS for Collaborative Robotics Applications with Wireless TSN (IEEE ICC 2021) </td><td>TSN, Robotics, QoS</td><td>Nothing </td></tr> 
+<tr><td>1</td><td>Enabling QoS for Collaborative Robotics Applications with Wireless TSN (IEEE ICC 2021) </td><td>TSN, Robotics,Wi-Fi,QoS</td><td>Nothing </td></tr> 
+<tr><td>2</td><td> Wireless Time Sensitive Networking for Industrial Collaborative Robotic Work Cells (IEEE WFCS 2021) </td><td>TSN, Robotics</td><td>Recvd. Best Paper Award </td></tr> 
+<tr><td>3</td><td> Scheduling of Time-Critical Applications Utilizing TCP in Software-based 802.1Qbv Wireless TSN (IEEE WFCS 2023) </td><td>TSN-Qbv,TCP,Wi-Fi </td><td>Recvd. Best Paper Award </td></tr> 
+<tr><td>4</td><td>Measurement method for end-to-end Time synchronization of wired and wireless TSN </td><td>TSN, TGPIO </td><td>Presented at TSNA </td></tr> 
+<tr><td>5</td><td>Zero-Delay Roaming for Mobile Robots enabled by Wireless TSN </td><td>802.1CB, Robotics,Wi-Fi</td><td>Nothing </td></tr> 
+<tr><td>6</td><td>Joint Resource Scheduling for AMR Navigation over Wireless Edge Networks (IEEE Open Journal of Vehicular Technology,2023) </td><td>Robotics,Wi-Fi, Edge</td><td>Nothing </td></tr> 
+<tr><td>1</td><td>End-to-End Time Synchronization Performance Measurement in Heterogenous TSN Networks </td><td>TSN, Robotics,Wi-Fi,QoS</td><td>Presented at TSN/A 2021</td></tr> 
 <!-- <tr><td colspan="2"><a href="#survey-papers">1. Survey</a></td></tr> 
 <tr><td colspan="2"><a href="#models">2. Models</a></td></tr>
 <tr>
