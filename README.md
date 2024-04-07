@@ -6,7 +6,7 @@ Lists papers and topics published.
 <table>
 <tr><td>No.</td><td>Title</td><td>Domain</td><td>Abstract</td></tr>
 <tr><td>1</td><td><a href="#Enabling QoS for Collaborative Robotics Applications with Wireless TSN">Enabling QoS for Collaborative Robotics Applications with Wireless TSN (IEEE ICC 2021) </a> </td><td>TSN, Robotics,Wi-Fi,QoS</td><td>Nothing </td></tr> 
-<tr><td>2</td><td> <a href="#Wireless Time Sensitive Networking for Industrial Collaborative Robotic Work Cells"> Wireless Time Sensitive Networking for Industrial Collaborative Robotic Work Cells (IEEE WFCS 2021) </a> </td><td>TSN, Robotics</td><td>Recvd. Best Paper Award </td></tr> 
+<tr><td>2</td><td><a href="#Wireless Time Sensitive Networking for Industrial Collaborative Robotic Work Cells"> Wireless Time Sensitive Networking for Industrial Collaborative Robotic Work Cells (IEEE WFCS 2021) </a> </td><td>TSN, Robotics</td><td>Recvd. Best Paper Award </td></tr> 
 <tr><td>3</td><td> Scheduling of Time-Critical Applications Utilizing TCP in Software-based 802.1Qbv Wireless TSN (IEEE WFCS 2023) </td><td>TSN-Qbv,TCP,Wi-Fi </td><td>Recvd. Best Paper Award </td></tr> 
 <tr><td>4</td><td>Measurement method for end-to-end Time synchronization of wired and wireless TSN </td><td>TSN, TGPIO </td><td>Presented at TSNA </td></tr> 
 <tr><td>5</td><td>Zero-Delay Roaming for Mobile Robots enabled by Wireless TSN </td><td>802.1CB, Robotics,Wi-Fi</td><td>Nothing </td></tr> 
@@ -19,15 +19,14 @@ Lists papers and topics published.
 </table>
 
 
-## [Enabling QoS for Collaborative Robotics Applications with Wireless TSN](#content)
+## [Enabling QoS for Collaborative Robotics Applications with Wireless TSN](#content) [paper] (https://ieeexplore.ieee.org/document/9473897)
 This paper describes a methodology to map application layer QoS requirements from the ROS2 (Robotics Operating System 2) and DDS (Data Distribution System) middleware, used to develop robotics applications, to the link layer transport based on Wireless Time-Sensitive Networking (TSN) capabilities built on Wi-Fi. The paper shows experimental results with an implementation of this methodolgy on a simple robotic leader follower material handling use case. 
 
-## [Wireless Time Sensitive Networking for Industrial Collaborative Robotic Work Cells](#content)
+## [Wireless Time Sensitive Networking for Industrial Collaborative Robotic Work Cells](#content) [paper](https://ieeexplore.ieee.org/document/9483447)
 This paper describes a collaborative robotic workcell testbed enabled by a Wi-Fi based Wireless Time Sensitive Networking (WTSN) network stack. Deploying, measuring WTSN capabilities like time synchronization and time-aware scheduling over IEEE 802.11/Wi-Fi is described based on deployment of a WTSN stack in a collaborative robotic workcell testbed consisting of two robotic arms that emulates a material handling application at the National Institute of Standards and Technology (NIST).
 
-1. **Graph Neural Networks: A Review of Methods and Applications.** AI Open 2020. [paper](https://doi.org/10.1016/j.aiopen.2021.01.001)
-   
-    *Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Maosong Sun.* 
+## [Scheduling of Time-Critical Applications Utilizing TCP in Software-based 802.1Qbv Wireless TSN](#content). [paper](https://ieeexplore.ieee.org/document/10144232)
+In this work, a bandwidth efficient TSN schedule is developed to accommodate the TCP traffic flow between two synchronized robots collaboratively moving an object. The paper demonstrate an IEEE 802.1Qbv TSN schedule over an IEEE 802.11 wireless medium that guarantees robot performance requirements are maintained while accommodating concurrent best-effort traffic flows. 
 
 1. **A Comprehensive Survey on Graph Neural Networks.** arxiv 2019. [paper](https://arxiv.org/pdf/1901.00596.pdf)
 
