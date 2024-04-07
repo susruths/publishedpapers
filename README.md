@@ -5,8 +5,8 @@ Lists papers and topics published.
 
 <table>
 <tr><td>No.</td><td>Title</td><td>Domain</td><td>Abstract</td></tr>
-<tr><td>1</td><td><a href="#1">Enabling QoS for Collaborative Robotics Applications with Wireless TSN (IEEE ICC 2021) </a> </td><td>TSN, Robotics,Wi-Fi,QoS</td><td>Nothing </td></tr> 
-<tr><td>2</td><td> Wireless Time Sensitive Networking for Industrial Collaborative Robotic Work Cells (IEEE WFCS 2021) </td><td>TSN, Robotics</td><td>Recvd. Best Paper Award </td></tr> 
+<tr><td>1</td><td><a href="#Enabling QoS for Collaborative Robotics Applications with Wireless TSN">Enabling QoS for Collaborative Robotics Applications with Wireless TSN (IEEE ICC 2021) </a> </td><td>TSN, Robotics,Wi-Fi,QoS</td><td>Nothing </td></tr> 
+<tr><td>2</td><td> <a href="#Wireless Time Sensitive Networking for Industrial Collaborative Robotic Work Cells"> Wireless Time Sensitive Networking for Industrial Collaborative Robotic Work Cells (IEEE WFCS 2021) </a> </td><td>TSN, Robotics</td><td>Recvd. Best Paper Award </td></tr> 
 <tr><td>3</td><td> Scheduling of Time-Critical Applications Utilizing TCP in Software-based 802.1Qbv Wireless TSN (IEEE WFCS 2023) </td><td>TSN-Qbv,TCP,Wi-Fi </td><td>Recvd. Best Paper Award </td></tr> 
 <tr><td>4</td><td>Measurement method for end-to-end Time synchronization of wired and wireless TSN </td><td>TSN, TGPIO </td><td>Presented at TSNA </td></tr> 
 <tr><td>5</td><td>Zero-Delay Roaming for Mobile Robots enabled by Wireless TSN </td><td>802.1CB, Robotics,Wi-Fi</td><td>Nothing </td></tr> 
@@ -16,68 +16,14 @@ Lists papers and topics published.
 <tr><td>9</td><td>Bridging Wired and Wireless Time Sensitive Networking: Opportunities and Challenges (Embedded World Conference 2021)</td><td>TSN,Security</td><td></td></tr> 
 <tr><td>10</td><td>Computing and Communication Co-design and Wireless TSN in a Human-Robot Collaboration Testbed (IEEE Transactionson Industrial Informatics – 2022)</td><td>TSN,Security</td><td></td></tr> 
 <tr><td>10</td><td>Wireless TSN with Multi-Radio Wi-Fi (IEEE CSCN – 2021)</td><td>TSN,Security</td><td></td></tr> 
-
-<!-- <tr><td colspan="2"><a href="#survey-papers">1. Survey</a></td></tr> 
-<tr><td colspan="2"><a href="#models">2. Models</a></td></tr>
-<tr>
-    <td>&ensp;<a href="#basic-models">2.1 Basic Models</a></td>
-    <td>&ensp;<a href="#graph-types">2.2 Graph Types</a></td>
-</tr>
-<tr>
-    <td>&ensp;<a href="#pooling-methods">2.3 Pooling Methods</a></td>
-    <td>&ensp;<a href="#analysis">2.4 Analysis</a></td>
-</tr>
-<tr>
-    <td>&ensp;<a href="#efficiency">2.5 Efficiency</a></td>
-    <td>&ensp;<a href="#explainability">2.6 Explainability</a></td>
-</tr>
-<tr><td colspan="2"><a href="#applications">3. Applications</a></td></tr> 
-<tr>
-    <td>&ensp;<a href="#physics">3.1 Physics</a></td>
-    <td>&ensp;<a href="#chemistry-and-biology">3.2 Chemistry and Biology</a></td>
-</tr> 
-<tr>
-    <td>&ensp;<a href="#knowledge-graph">3.3 Knowledge Graph</a></td>
-    <td>&ensp;<a href="#recommender-systems">3.4 Recommender Systems</a></td>
-</tr>
-<tr>
-    <td>&ensp;<a href="#computer-vision">3.5 Computer Vision</a></td>
-    <td>&ensp;<a href="#natural-language-processing">3.6 Natural Language Processing</a></td>
-</tr> 
-<tr>
-    <td>&ensp;<a href="#generation">3.7 Generation</a></td>
-    <td>&ensp;<a href="#combinatorial-optimization">3.8 Combinatorial Optimization</a></td>
-</tr> 
-<tr>
-    <td>&ensp;<a href="#adversarial-attack">3.9 Adversarial Attack</a></td>
-    <td>&ensp;<a href="#graph-clustering">3.10 Graph Clustering</a></td>
-</tr>
-<tr>
-    <td>&ensp;<a href="#graph-classification">3.11 Graph Classification</a></td>
-    <td>&ensp;<a href="#reinforcement-learning">3.12 Reinforcement Learning</a></td>
-</tr>
-<tr>
-    <td>&ensp;<a href="#traffic-network">3.13 Traffic Network</a></td>
-    <td>&ensp;<a href="#few-shot-and-zero-shot-learning">3.14 Few-shot and Zero-shot Learning</a></td>
-</tr>
-<tr>
-    <td>&ensp;<a href="#program-representation">3.15 Program Representation</a></td>
-    <td>&ensp;<a href="#social-network">3.16 Social Network</a></td>
-</tr> 
-<tr>
-    <td>&ensp;<a href="#graph-matching">3.17 Graph Matching</a></td>
-    <td>&ensp;<a href="#computer-network">3.18 Computer Network</a></td>
-</tr> -->
 </table>
 
 
-## [1](#content)
+## [Enabling QoS for Collaborative Robotics Applications with Wireless TSN](#content)
+This paper describes a methodology to map application layer QoS requirements from the ROS2 (Robotics Operating System 2) and DDS (Data Distribution System) middleware, used to develop robotics applications, to the link layer transport based on Wireless Time-Sensitive Networking (TSN) capabilities built on Wi-Fi. The paper shows experimental results with an implementation of this methodolgy on a simple robotic leader follower material handling use case. 
 
-
-## [Survey papers](#content)
-1. **Introduction to Graph Neural Networks.** Synthesis Lectures on Artificial Intelligence and Machine Learning, Morgan & Claypool Publishers, 2020. [book](https://www.morganclaypool.com/doi/10.2200/S00980ED1V01Y202001AIM045)
-
-    *Zhiyuan Liu, Jie Zhou.* 
+## [Wireless Time Sensitive Networking for Industrial Collaborative Robotic Work Cells](#content)
+This paper describes a collaborative robotic workcell testbed enabled by a Wi-Fi based Wireless Time Sensitive Networking (WTSN) network stack. Deploying, measuring WTSN capabilities like time synchronization and time-aware scheduling over IEEE 802.11/Wi-Fi is described based on deployment of a WTSN stack in a collaborative robotic workcell testbed consisting of two robotic arms that emulates a material handling application at the National Institute of Standards and Technology (NIST).
 
 1. **Graph Neural Networks: A Review of Methods and Applications.** AI Open 2020. [paper](https://doi.org/10.1016/j.aiopen.2021.01.001)
    
