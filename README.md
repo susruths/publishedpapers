@@ -1,5 +1,5 @@
-# List of papers I have published contributed to
-Lists papers and topics published.
+# My Published Papers
+This is a list of papers and/or presentations that I have published or given or have made a significant contribution to.
 
 ## [Content](#content)
 
@@ -8,7 +8,7 @@ Lists papers and topics published.
 <tr><td>1</td><td><a href="#Enabling QoS for Collaborative Robotics Applications with Wireless TSN">Enabling QoS for Collaborative Robotics Applications with Wireless TSN (IEEE ICC 2021) </a> </td><td>TSN, Robotics,Wi-Fi,QoS</td><td>Nothing </td></tr> 
 <tr><td>2</td><td><a href="#Wireless Time Sensitive Networking for Industrial Collaborative Robotic Work Cells"> Wireless Time Sensitive Networking for Industrial Collaborative Robotic Work Cells (IEEE WFCS 2021) </a> </td><td>TSN, Robotics</td><td>Recvd. Best Paper Award </td></tr> 
 <tr><td>3</td><td> Scheduling of Time-Critical Applications Utilizing TCP in Software-based 802.1Qbv Wireless TSN (IEEE WFCS 2023) </td><td>TSN-Qbv,TCP,Wi-Fi </td><td>Recvd. Best Paper Award </td></tr> 
-<tr><td>4</td><td>Measurement method for end-to-end Time synchronization of wired and wireless TSN </td><td>TSN, TGPIO </td><td>Presented at TSNA </td></tr> 
+<tr><td>4</td><td>Measurement method for end-to-end Time synchronization of wired and wireless TSN </td><td>TSN, TGPIO </td><td>Presented at TSNA 2020 </td></tr> 
 <tr><td>5</td><td>Zero-Delay Roaming for Mobile Robots enabled by Wireless TSN </td><td>802.1CB, Robotics,Wi-Fi</td><td> Regular Paper </td></tr> 
 <tr><td>6</td><td>Joint Resource Scheduling for AMR Navigation over Wireless Edge Networks (IEEE Open Journal of Vehicular Technology,2023) </td><td>Robotics,Wi-Fi, Edge</td><td> Regular Paper </td></tr> 
 <tr><td>7</td><td>End-to-End Time Synchronization Performance Measurement in Heterogenous TSN Networks </td><td>TSN, Robotics,Wi-Fi</td><td>Presented at TSN/A 2021</td></tr> 
@@ -20,7 +20,7 @@ Lists papers and topics published.
 </table>
 
 
-## [Enabling QoS for Collaborative Robotics Applications with Wireless TSN](#content). [paper](https://ieeexplore.ieee.org/document/9473897)
+## [Enabling QoS for Collaborative Robotics Applications with Wireless TSN](#content). [#paper](https://ieeexplore.ieee.org/document/9473897)
 This paper describes a methodology to map application layer QoS requirements from the ROS2 (Robotics Operating System 2) and DDS (Data Distribution System) middleware, used to develop robotics applications, to the link layer transport based on Wireless Time-Sensitive Networking (TSN) capabilities built on Wi-Fi. The paper shows experimental results with an implementation of this methodolgy on a simple robotic leader follower material handling use case. 
 
 ## [Wireless Time Sensitive Networking for Industrial Collaborative Robotic Work Cells](#content). [paper](https://ieeexplore.ieee.org/document/9483447)
