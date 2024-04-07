@@ -4,8 +4,8 @@ This is a list of papers and/or presentations that I have published or given or 
 ## [Content](#content)
 
 <table>
-<tr><td>No.</td><td>Title</td><td>Domain</td><td>Abstract</td></tr>
-<tr><td>1</td><td><a href="#Enabling QoS for Collaborative Robotics Applications with Wireless TSN">Enabling QoS for Collaborative Robotics Applications with Wireless TSN (IEEE ICC 2021) </a> </td><td>TSN, Robotics,Wi-Fi,QoS</td><td>Nothing </td></tr> 
+<tr><td>No.</td><td>Title</td><td>Domain</td><td>Notes</td></tr>
+<tr><td>1</td><td><a href="#Enabling QoS for Collaborative Robotics Applications with Wireless TSN">Enabling QoS for Collaborative Robotics Applications with Wireless TSN (IEEE ICC 2021) </a> </td><td>TSN, Robotics,Wi-Fi,QoS</td><td>IEE ICC </td></tr> 
 <tr><td>2</td><td><a href="#Wireless Time Sensitive Networking for Industrial Collaborative Robotic Work Cells"> Wireless Time Sensitive Networking for Industrial Collaborative Robotic Work Cells (IEEE WFCS 2021) </a> </td><td>TSN, Robotics</td><td>Recvd. Best Paper Award </td></tr> 
 <tr><td>3</td><td> Scheduling of Time-Critical Applications Utilizing TCP in Software-based 802.1Qbv Wireless TSN (IEEE WFCS 2023) </td><td>TSN-Qbv,TCP,Wi-Fi </td><td>Recvd. Best Paper Award </td></tr> 
 <tr><td>4</td><td>Measurement method for end-to-end Time synchronization of wired and wireless TSN </td><td>TSN, TGPIO </td><td>Presented at TSNA 2020 </td></tr> 
